@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Wonderland",
+    "email": "alice@example.com",
+    "isOnline": true,
+    "skills": [
+      { "name": "React", "level": "Intermediate" },
+      { "name": "JavaScript", "level": "Beginner" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bob Builder",
+    "email": "bob@example.com",
+    "isOnline": false,
+    "skills": [
+      { "name": "Node.js", "level": "Advanced" },
+      { "name": "MongoDB" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Charlie Chaplin",
+    "email": "charlie@example.com",
+    "isOnline": true,
+    "skills": [
+      { "name": "UI/UX Design", "level": "Intermediate" }
+    ]
+  }
+]
